@@ -1,0 +1,87 @@
+1. confirmation email that Job Posted successfully
+	a) confirmtion message (Your job has been posted succesfully)
+	b) Job title, company name, company logo
+	c) CTA button (view Post).
+2. hired email to candidate
+	a) congratulation message
+	b) Job title, company name, company logo
+	c) CTA button (view job details)
+	d) employer contacts( CTA button for message )
+	e) Some further details (your employer will contact you)
+3. rejected email to candidate
+	a) rejection message
+	b) Job title, company name, company logo
+	c) CTA button (view similiar job posts)
+	d) Some tips, motivating couple of lines
+4. employer reviewed your profile -> email to candidate
+	a) XYZ has reviewed your application for ABC job post(with CTA button to view job details).
+	b) further procedure message like wait till 2 days for XYZ to get back to you.
+	c) CTA button to message the employer
+	d) CTA button (view some similiar jobs)
+	e) some reccommendations to take skill trainings(related to job applied to improve chances of selection)
+6. confirmation email to candidate when applied for any task
+	a) confirmtion message like(Your application has been succesfully submitted)
+	b) Job title, company name, company logo
+	c) CTA button (like view similiar tasks).
+	d) CTA button to update email (if not updated)
+	e) some reccommendations to take skill trainings(related to job applied to improve chances of selection)
+There can be a follow-up email after this to take skill trainings, earn certificates, level-up (benefits of improving there level) to improve chances of selection
+7. email/notification when completed any task, earned EI coins
+	a) message that your task has been completed
+	b) progress bar, prograss status
+	c) progress bar or message to completed other incompleted tasks
+	d) status about EI coins earned, Total EI coins earned
+	e) CTA button to withdraw (if minimum requirements are fulfilled)
+8. RSVP when showed interest to any live training session
+	a) training session title
+	b) training details
+	c) Time,duration & date details
+	d) benefits
+	e) add to calendar button
+	f) invite friends button
+9. Training session reminder emails
+	a) training session title
+	b) training details
+	c) Time,duration & date details
+	d) Join/access button
+	e) add to calendar button
+10. Take skill assessment quiz emails
+	a) training title, details
+	b) Progress bar, (you have completed 79% of XYZ)
+	c) Reminder to take the assessment test
+	d) CTA button (take test)
+11. email to user when someone views their profile (like LinkedIn).
+	a) viewer's name, profile picture.
+	b) Ranking, level, Tasks completed, Coins earned
+	c) CTA button(view profile)
+12. emails to complete task(recommendations) to the viewing user from second users profile.
+	a) XYZ and 5 others have completed the following tasks (something like this)
+	b) List of 5-6 task reccommendation
+	c) Complete these tasks and upgrade your profile to silver Level (something like this)
+13. Daily summary report(for the employer regarding tasks)
+	a) List of each candidates (each with their progress bar of the task) & (Number of tasks completed today)
+	b) CTA button (view full report)
+14. Level-Up email
+	a) congratulations, You have reached Silver level
+	b) level progress bar
+	c) CTA button (unlock mystery box)
+	d) benefits of the level reached(like money = 1.1 x Coins)
+	e) CTA button(view owns profile)
+15. completed any prerequisite tasks
+	a) You have completed 2/3 of the XYZ task (something like this)
+	b) coins earned
+	c) task progress bar
+	d) List of remaining tasks
+	e) Apply now button (if all prerequisite task completed)
+16. messages from employer
+	a) Senders name
+	b) message snippet
+	c) some tips (like mentioned in screenshots)
+19. Verify your email( for new users)
+	a) welcome message
+	b) CTA button (verify your email)
+18. someone applied for task you posted
+	a) applicants name, profile picture, Level
+	b) Leaderboard ranking, Total jobs completed, Modules completed, Last Month jobs completed
+	c) few lines from bio
+	d) CTA button ( redirect to applicants profile page/hiring page)

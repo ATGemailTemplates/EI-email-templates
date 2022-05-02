@@ -1,0 +1,20 @@
+1. confirmation email that Job Posted successfully.
+2. hired email to candidate
+3. rejected email to candidate
+4. employer reviewed your profile -> email to candidate
+5. payment notification to both user involved(employer -2, employee -2)
+6. confirmation email to candidate when applied for any task
+7. email/notification when completed any task, earned EI coins
+8. RSVP when showed interest to any training session
+9. Training session reminder emails
+10. Take skill assessment quiz emails
+11. email/notification to users for any general activity (like 
+	level-up,
+	completed any prerequisite tasks,
+	updated bank account details,
+	unread messages,
+	email verified successfully,
+	someone applied for task you posted,...etc)
+12. email to user when someone views their profile (like LinkedIn).
+13. emails to complete task(recommendations) to the viewing user from second users profile.
+14. Daily summary report(for the employer regarding tasks)
